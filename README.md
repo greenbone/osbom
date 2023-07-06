@@ -1,3 +1,5 @@
+![Greenbone Logo](https://www.greenbone.net/wp-content/uploads/gb_new-logo_horizontal_rgb_small.png)
+
 # osbom - Reducing your risks
 **Software Bills of Material and Vulnerability Scanning combined in one easy to use tool!**
 > People who don't take risks generally make about two big mistakes a year. People who do take risks generally make about two big mistakes a year. There is the risk you cannot afford to take, and there is the risk you cannot afford not to take. (Peter Drucker)
